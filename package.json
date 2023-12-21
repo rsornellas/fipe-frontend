@@ -6,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "npm run prepare && next build",
-    "prepare": "npm install"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "14.0.4",
